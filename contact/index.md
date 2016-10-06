@@ -6,7 +6,6 @@ title: Developmental Imaging Contacts
 
 # Contacts
 
-<section class="content">
 Please use github issue trackers for queries/bugs with individual software
 packages
 
